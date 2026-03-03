@@ -86,7 +86,9 @@ accelerate launch rc/f5_tts/train/train.py
 accelerate launch rc/f5_tts/train/train_rl.py
 ```
 
-## [Evaluation](src/f5_tts/eval)
+## Evaluation
+
+Following the [Evaluation Guidance](src/f5_tts/eval)
 
 ## Acknowledgements
 
